@@ -1,0 +1,31 @@
+﻿@{
+    Layout = null;
+}
+
+<div class="hero-unit">
+    <h1>Service Status</h1>
+</div>
+
+<div id="results" >
+    <button ng-click="init()" >Refresh</button>
+    <!-- Each issue should be rendered with the following template -->
+    <div class="issue-template" ng-repeat="issue in serviceEvents" ng-show="hasData">
+        <h3>{{issue.Title}}</h3> <!-- If status === Unresolved -->
+        <h3>{{issue.status}}</h3> <!-- If status === Resolved -->
+        <p>{{issue.Description}}</p>
+        <div style="padding-left:50px">
+            <p>Updates:</p>
+            <!-- Each update should be rendered with the following template -->
+            <div class="update-template" ng-repeat="item in issue.Updates">
+                <p>{{item.Update}}</p>
+                <em>By {{item.UserName}}</em>
+                <hr style="width:50%" />
+            </div>
+        </div>
+        <hr />
+    </div>
+    <!-- Render this if there are no issues returned -->
+    <div class="no-issues-template check-element animate-show" ng-hide="hasData">
+        Everybodies happy!
+    </div>
+</div>

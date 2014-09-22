@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    @Styles.Render("~/Content/css")
+
+
+
+
+
+</head>
+<body data-ng-app="main" data-ng-controller="RootController">
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container">
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="brand" href='#/home'>Campaign Monitor</a>
+                <div class="nav-collapse collapse">
+                    <ul class="nav">
+                        <li data-ng-class="{active : activeViewPath==='/home'}"><a href='#/home'>Home</a></li>
+                        <li data-ng-class="{active : activeViewPath==='/csharptest'}"><a href='#/csharptest'>CSharp Test</a></li>
+                        <li data-ng-class="{active : activeViewPath==='/javascripttest'}"><a href='#/javascripttest'>JS Test</a></li>
+                        <li data-ng-class="{active : activeViewPath==='/service'}"><a href='#/service'>Service</a></li>
+                        <li data-ng-class="{active : activeViewPath==='/contact'}"><a href='#/contact'>Contact</a></li>
+                    </ul>
+                </div>
+                <!--/.nav-collapse -->
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/cm")
+    
+    @Scripts.Render("~/bundles/angularjs")
+
+    @Scripts.Render("~/bundles/modernizr")
+
+    @Scripts.Render("~/bundles/app")
+
+
+
+    @RenderSection("scripts", required: false)
+
+    <div style="padding: 10px"></div>
+</body>
+</html>

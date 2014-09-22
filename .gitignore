@@ -1,3 +1,7 @@
 *.dll
 *.pmb
 *.exe
+obj/*.*
+obj\*.*
+bin\*.*
+bin/*.*

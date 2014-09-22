@@ -1,0 +1,10 @@
+C:\Users\amit\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\bin\Debug\CampaignMonitor.Common.dll
+C:\Users\amit\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\bin\Debug\CampaignMonitor.Common.pdb
+C:\Users\amit\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\obj\Debug\CampaignMonitor.Common.dll
+C:\Users\amit\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\obj\Debug\CampaignMonitor.Common.pdb
+C:\Users\amit\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\obj\Debug\CampaignMonitor.Common.csprojResolveAssemblyReference.cache
+C:\Users\amitm\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\bin\Debug\CampaignMonitor.Common.dll
+C:\Users\amitm\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\bin\Debug\CampaignMonitor.Common.pdb
+C:\Users\amitm\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\obj\Debug\CampaignMonitor.Common.csprojResolveAssemblyReference.cache
+C:\Users\amitm\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\obj\Debug\CampaignMonitor.Common.dll
+C:\Users\amitm\SkyDrive\code\CM\Libraries\CampaignMonitor.Common\obj\Debug\CampaignMonitor.Common.pdb

@@ -1,0 +1,5 @@
+C:\Users\amitm\SkyDrive\code\CM\CampaignMonitor.ServiceDashboard\CampaignMonitor.Model\bin\Debug\CampaignMonitor.Model.dll
+C:\Users\amitm\SkyDrive\code\CM\CampaignMonitor.ServiceDashboard\CampaignMonitor.Model\bin\Debug\CampaignMonitor.Model.pdb
+C:\Users\amitm\SkyDrive\code\CM\CampaignMonitor.ServiceDashboard\CampaignMonitor.Model\obj\Debug\CampaignMonitor.Model.csprojResolveAssemblyReference.cache
+C:\Users\amitm\SkyDrive\code\CM\CampaignMonitor.ServiceDashboard\CampaignMonitor.Model\obj\Debug\CampaignMonitor.Model.dll
+C:\Users\amitm\SkyDrive\code\CM\CampaignMonitor.ServiceDashboard\CampaignMonitor.Model\obj\Debug\CampaignMonitor.Model.pdb

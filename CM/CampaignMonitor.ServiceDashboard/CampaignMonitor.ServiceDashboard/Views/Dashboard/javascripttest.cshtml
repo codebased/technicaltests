@@ -1,0 +1,46 @@
+﻿@{
+    Layout = null;
+}
+<div class="hero-unit">
+    <h1>JavaScript (JS) Test Result</h1>
+</div>
+<div>
+    Original
+    <div>
+        <textarea id="originalText" ng-model="originalText"></textarea>
+    </div>
+    Filter
+    <div>
+        <input type="text" id="filterText" ng-model="filterText" />
+    </div>
+
+    Result:
+    <div>
+        <textarea id="resultText" ng-model="resultText"></textarea>
+    </div>
+</div>
+
+<div>
+    Test
+    <div style="padding-top: 10px">
+        <button ng-click="startWithAction()">StartWith</button>
+        &nbsp;&nbsp;
+        <button ng-click="endWithAction()">EndWith</button>
+        &nbsp;&nbsp;
+        <button ng-click="stripHTMLAction()">StripHTML</button>
+        &nbsp;&nbsp;
+    </div>
+</div>
+
+<div style="padding: 10px">
+</div>
+
+<div class="text-center">
+    Using jQueryPlugin
+    <div style="padding-top: 10px" id="aLinkArea">
+        <a href="http://www.google.com">GooGLE</a>
+        <a href="http://www.msn.com">MSN</a>
+        <a href="http://www.smh.com.au">SMH</a>
+        <a href="http://www.news.com.com">NEWS</a>
+    </div>
+</div>

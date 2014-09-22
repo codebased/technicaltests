@@ -1,0 +1,14 @@
+C:\Users\amit\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\bin\Debug\CampaignMonitor.Common.UnitTest.dll
+C:\Users\amit\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\bin\Debug\CampaignMonitor.Common.UnitTest.pdb
+C:\Users\amit\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\bin\Debug\CampaignMonitor.Common.dll
+C:\Users\amit\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\bin\Debug\CampaignMonitor.Common.pdb
+C:\Users\amit\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\obj\Debug\CampaignMonitor.Common.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\amit\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\obj\Debug\CampaignMonitor.Common.UnitTest.dll
+C:\Users\amit\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\obj\Debug\CampaignMonitor.Common.UnitTest.pdb
+C:\Users\amitm\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\bin\Debug\CampaignMonitor.Common.UnitTest.dll
+C:\Users\amitm\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\bin\Debug\CampaignMonitor.Common.UnitTest.pdb
+C:\Users\amitm\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\bin\Debug\CampaignMonitor.Common.dll
+C:\Users\amitm\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\bin\Debug\CampaignMonitor.Common.pdb
+C:\Users\amitm\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\obj\Debug\CampaignMonitor.Common.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\amitm\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\obj\Debug\CampaignMonitor.Common.UnitTest.dll
+C:\Users\amitm\SkyDrive\code\CM\Libraries\UnitTest\CampaignMonitor.Common.UnitTest\obj\Debug\CampaignMonitor.Common.UnitTest.pdb
