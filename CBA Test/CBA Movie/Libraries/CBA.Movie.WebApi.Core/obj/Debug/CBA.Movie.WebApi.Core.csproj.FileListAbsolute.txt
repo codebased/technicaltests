@@ -1,0 +1,63 @@
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\AutoMapper.Net4.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.WebApi.Core.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.WebApi.Core.pdb
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.Data.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.WebApi.Dto.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Elmah.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\MoviesLibrary.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.Web.Common.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Cors.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Http.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\WebActivator.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.Common.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\NLog.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.Data.pdb
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.WebApi.Dto.pdb
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.pdb
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.xml
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.Web.Common.xml
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Http.xml
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.Common.pdb
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\bin\Debug\NLog.xml
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\obj\Debug\CBA.Movie.WebApi.Core.csprojResolveAssemblyReference.cache
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\obj\Debug\CBA.Movie.WebApi.Core.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Core\obj\Debug\CBA.Movie.WebApi.Core.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\AutoMapper.Net4.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.WebApi.Core.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.WebApi.Core.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.Data.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.WebApi.Dto.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Elmah.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\MoviesLibrary.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.Web.Common.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Cors.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Http.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\WebActivator.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.Common.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\NLog.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.Data.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.WebApi.Dto.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\Ninject.Web.Common.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Http.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\CBA.Movie.Common.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\bin\Debug\NLog.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\obj\Debug\CBA.Movie.WebApi.Core.csprojResolveAssemblyReference.cache
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\obj\Debug\CBA.Movie.WebApi.Core.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Core\obj\Debug\CBA.Movie.WebApi.Core.pdb

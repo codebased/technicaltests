@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<string name="app_name">CBA</string>
+    <string name="account_details">Account details</string>
+    <string name="available_funds">Available funds</string>
+    <string name="available_balance">Available balance</string>
+</resources>

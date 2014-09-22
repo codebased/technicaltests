@@ -1,0 +1,10 @@
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Dto\bin\Debug\CBA.Movie.WebApi.Dto.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Dto\bin\Debug\CBA.Movie.WebApi.Dto.pdb
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Dto\obj\Debug\CBA.Movie.WebApi.Dto.csprojResolveAssemblyReference.cache
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Dto\obj\Debug\CBA.Movie.WebApi.Dto.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.WebApi.Dto\obj\Debug\CBA.Movie.WebApi.Dto.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Dto\bin\Debug\CBA.Movie.WebApi.Dto.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Dto\bin\Debug\CBA.Movie.WebApi.Dto.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Dto\obj\Debug\CBA.Movie.WebApi.Dto.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Dto\obj\Debug\CBA.Movie.WebApi.Dto.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.WebApi.Dto\obj\Debug\CBA.Movie.WebApi.Dto.csprojResolveAssemblyReference.cache

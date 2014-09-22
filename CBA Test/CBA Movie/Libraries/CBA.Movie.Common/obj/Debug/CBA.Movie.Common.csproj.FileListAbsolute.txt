@@ -1,0 +1,13 @@
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.Common\bin\Debug\CBA.Movie.Common.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.Common\bin\Debug\CBA.Movie.Common.pdb
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.Common\bin\Debug\NLog.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.Common\bin\Debug\NLog.xml
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.Common\obj\Debug\CBA.Movie.Common.csprojResolveAssemblyReference.cache
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.Common\obj\Debug\CBA.Movie.Common.dll
+C:\Users\amit\SkyDrive\code\CBA\Libraries\CBA.Movie.Common\obj\Debug\CBA.Movie.Common.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.Common\bin\Debug\CBA.Movie.Common.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.Common\bin\Debug\CBA.Movie.Common.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.Common\bin\Debug\NLog.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.Common\bin\Debug\NLog.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.Common\obj\Debug\CBA.Movie.Common.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\Libraries\CBA.Movie.Common\obj\Debug\CBA.Movie.Common.pdb

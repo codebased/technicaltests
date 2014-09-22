@@ -1,0 +1,24 @@
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Data.Tests.dll
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Data.Tests.pdb
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\obj\Debug\CBA.Movie.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\obj\Debug\CBA.Movie.Data.Tests.dll
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\obj\Debug\CBA.Movie.Data.Tests.pdb
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Data.dll
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\MoviesLibrary.dll
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Common.dll
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\NLog.dll
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Data.pdb
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Common.pdb
+C:\Users\amit\SkyDrive\code\CBA\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\NLog.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Data.Tests.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Data.Tests.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Data.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\MoviesLibrary.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Common.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\NLog.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Data.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\CBA.Movie.Common.pdb
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\bin\Debug\NLog.xml
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\obj\Debug\CBA.Movie.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\obj\Debug\CBA.Movie.Data.Tests.dll
+C:\Users\amitm\SkyDrive\code\CBA\CBA Movie\UnitTests\CBA.Movie.Data.UnitTests\obj\Debug\CBA.Movie.Data.Tests.pdb

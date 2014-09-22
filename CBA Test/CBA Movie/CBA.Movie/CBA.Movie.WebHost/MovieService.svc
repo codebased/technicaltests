@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service=" CBA.Movie.WebApi.Core.Service.MovieService" CodeBehind="MovieService.svc.cs" Factory="CBA.Movie.WebHost.NInjectServiceFactory" %>
