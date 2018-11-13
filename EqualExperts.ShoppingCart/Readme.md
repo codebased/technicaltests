@@ -28,7 +28,7 @@ Please get a cup of coffee and review the attached files! :)
 
 Click on BuildAndTest.bat and on success, it should open a code coverage page result from OpenCover.
 
-> You must check for the right MSBuild version for .Net Framework 4.6. If you have any troubles with the batch file then I suggest you top open the solution file in Visual Studio and compile. After the successful compilation, you should be able to run this batch file. 
+> You must check for the right MSBuild version for .Net Framework 4.6. If you have any troubles with the batch file then I suggest you to open the solution file in Visual Studio and compile. After the successful compilation, you should be able to run this batch file. 
 
 
 
