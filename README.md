@@ -8,6 +8,6 @@ It will include everything that I have been learning
 
 ### Cloud based [Database as a Service]
 
-https://www.mongodb.com/cloud/atlas/pricing
-https://mlab.com/plans/pricing/
-https://www.compose.com/databases/mongodb
+* https://www.mongodb.com/cloud/atlas/pricing
+* https://mlab.com/plans/pricing/
+* https://www.compose.com/databases/mongodb/
